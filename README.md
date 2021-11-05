@@ -1,8 +1,8 @@
-### Olá, seja bem vindo(a) ao meu perfil!
+### Olá, seja bem vindo(a) ao meu perfil! &#128075;
 
 <hr/><br>
 
-- Estudante de Engenharia de Computação;
+- &#127891;Estudante de Engenharia de Computação;
 
 <hr/><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviafort&layout=compact_count=7&theme=dark"/>
