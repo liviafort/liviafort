@@ -4,7 +4,13 @@
 - &#128105;&#8205;&#127891;Estudante de Engenharia de Computação;
 
 <hr/><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviafort&layout=compact_count=7&theme=dark"/>
+Linguagens de estudo:
+- C
+- Python
+
+Tempo livre: 
+
+- Banco de dados
 </div>
 
 <div>
