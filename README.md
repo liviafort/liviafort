@@ -5,9 +5,9 @@
 
 <hr/><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviafort&layout=compact_count=7&theme=dark"/>
- </div>
- 
-<hr/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <div>
 <a href="https://www.linkedin.com/in/l%C3%ADvia-fortunato-120746225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrIbonFQ%2FTaSInX0fGLv5YA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/liviafort/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
