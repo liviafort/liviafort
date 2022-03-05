@@ -1,17 +1,14 @@
 ### Olá, seja bem vindo(a) ao meu perfil! &#128105;&#8205;&#128187;
-<hr/><br>
 
 - &#128105;&#8205;&#127891;Estudante de Engenharia de Computação;
 
 <hr/><br>
-
 Linguagens de estudo:
 
 - C
 - Python
 
 <hr/><br>
-
 Tempo livre: 
 
 - Banco de dados
