@@ -1,10 +1,9 @@
 ### Olá, seja bem vindo(a) ao meu perfil! &#128105;&#8205;&#128187;
-
-- &#128105;&#8205;&#127891;Estudante de Engenharia de Computação;
+<div>
+- &#128105;&#8205;&#127891;Estudante Universitária de Engenharia de Computação;
 <hr/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviafort&layout=compact&langs_count=7&theme=dracula"/>
-
+<div>
 <hr/><br>
 <div>
 <a href="https://www.linkedin.com/in/l%C3%ADvia-fortunato-120746225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrIbonFQ%2FTaSInX0fGLv5YA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
