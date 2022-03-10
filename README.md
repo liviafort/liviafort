@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo(a) ao meu perfil! &#128105;&#8205;&#128187;
 <div>
-- &#128105;&#8205;&#127891;Estudante Universitária de Engenharia de Computação;
+<ul> &#128105;&#8205;&#127891;Estudante Universitária de Engenharia de Computação;<ul>
 <hr/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviafort&layout=compact&langs_count=7&theme=dracula"/>
 <div>
