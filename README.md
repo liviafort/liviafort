@@ -6,7 +6,7 @@ About me
 ---
   
 &bull; I'm a Computer Engineering student<br>
-&bull; Currently, I'm interested in Web Development<br>
+&bull; Currently, I'm interested in Software Development<br>
 
 Skills
 ---
