@@ -10,7 +10,7 @@ About me
 
 Skills
 ---
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviafort&layout=compact&langs_count=7&theme=dracula"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liviafor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact
 ---
