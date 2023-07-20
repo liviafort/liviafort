@@ -6,7 +6,7 @@ About me
 ---
   
 &bull; I'm a computer engineering student<br>
-&bull; Currently, I'm working in web development<br>
+&bull; Currently working as a fullstack developer (junior) in web development<br>
 
 Skills
 ---
