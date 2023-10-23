@@ -1,11 +1,12 @@
 <h3>
-<p align="center">Welcome!</p>
-<h3/>
+<p align="center">Welcome!<img align="center" src="https://pa1.narvii.com/6617/143a90ed417324ed052b981c2b7ee4878c8e1506_hq.gif" height="75px"/></p>
+<h3/><hr/>
+  
 About me
 ---
   
 &bull; I'm a computer engineering student<br>
-&bull; Currently working as a fullstack developer (junior) in web development<br>
+&bull; Currently, I'm working in web development<br>
 
 Skills
 ---
