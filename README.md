@@ -1,6 +1,6 @@
 <h3>
 <p align="center">Welcome!<img align="center" src="https://pa1.narvii.com/6617/143a90ed417324ed052b981c2b7ee4878c8e1506_hq.gif" height="75px"/></p>
-<h3/><hr/>
+<h3/>
   
 About me
 ---
