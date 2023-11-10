@@ -6,7 +6,7 @@ About me
 ---
   
 &bull; I'm a computer engineering student<br>
-&bull; Currently, I'm working in web development and internet of things with EPS32<br>
+&bull; Working in the area of ​​web development, the Internet of Things with EPS32 and building graphical interfaces.<br>
 
 Skills
 ---
