@@ -4,7 +4,7 @@
   
 About me
 ---
-I'm a computer engineering student and currently my areas of professional interest are:
+<h5>I'm a computer engineering student and currently my areas of professional interest are:</h5>
 &bull; Web development - Backend <br>
 &bull; Internet of Things - ESP32 <br>
 &bull; Graphic interfaces - Python <br>
