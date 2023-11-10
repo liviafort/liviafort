@@ -5,8 +5,9 @@
 About me
 ---
   
-&bull; I'm a computer engineering student<br>
-&bull; Works in web development, the Internet of Things and building graphic interfaces..<br>
+&bull; Web development - Backend <br>
+&bull; Internet of Things - ESP32 <br>
+&bull; Graphic interfaces - Python <br>
 
 Skills
 ---
