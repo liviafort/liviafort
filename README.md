@@ -1,5 +1,5 @@
 <h3>
-<p align="center">Welcome!<img align="center" src="https://pa1.aminoapps.com/6552/bc3c3e1641a0cf730b2f3cbe1031fd3b079544cc_hq.gif" height="75px"/></p>
+<p align="center">Welcome!</p>
 <h3/><hr/>
   
 About me
