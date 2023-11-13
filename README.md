@@ -1,6 +1,5 @@
-<h3>
 <p align="center">Welcome!</p>
-<h3/><hr/>
+<hr/>
   
 About me
 ---
