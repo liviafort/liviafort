@@ -11,7 +11,7 @@ About me
 Skills
 ---
   
-<img  width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviafort&layout=compact&langs_count=7&theme=react"/>
+
 
 Contact
 ---
