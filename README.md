@@ -4,7 +4,7 @@
 About me
 ---
 <h4>I'm a computer engineering student and currently my areas of professional interest are:</h4>
-&bull; Web development - Backend (Nestjs/.NET/Flask)<br>
+&bull; Web development - Backend (Spring Boot - Nestjs)<br>
 &bull; Internet of Things - ESP32 (C/C++) <br>
 &bull; Graphic interfaces - Python <br>
 
